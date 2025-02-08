@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hello, zyprexh Here! 👋
 
-<!--
-**zyprexh/zyprexh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://raw.githubusercontent.com/zyprexh/zyprexh/main/banner.png" alt="Banner GitHub" width="100%">
 
-Here are some ideas to get you started:
+## About Me 🚀  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hey there! I'm a passionate **cryptocurrency enthusiast** who loves exploring the world of **Web3**.  
+I'm actively involved in running **nodes** and contributing to decentralized networks.  
+
+- 🔗 Deep into blockchain, DeFi, and crypto infrastructure  
+- ⚡ Running nodes and supporting decentralized ecosystems  
+- 🛠️ Exploring new Web3 technologies and dApps  
+
+Let's connect and build the future of decentralization together!  
